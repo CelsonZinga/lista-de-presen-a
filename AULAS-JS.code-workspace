@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../AULAS-JS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LISTA DE TAREFAS"
+	}
+}
